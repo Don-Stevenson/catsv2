@@ -1,0 +1,24 @@
+{
+  "name": "catsv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asysncBreeds.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Don-Stevenson/catsv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Don-Stevenson/catsv2/issues"
+  },
+  "homepage": "https://github.com/Don-Stevenson/catsv2#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
